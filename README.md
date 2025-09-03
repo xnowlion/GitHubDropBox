@@ -1,4 +1,4 @@
-# Tutorial on how to combine GitHub and DropBox
+# Tutorial on how to combine GitHub and DropBox [ Snowlion 20250902]
 
 #### Contributions to the tutorial is very welcomed!
 We greatly appreciate any type of feedback or contribution to this repository. Either open an [issue](https://github.com/kbjarkefur/GitHubDropBox/issues) if you have a comment/suggestion/bug you want to draw our attention to, or create a fork and submit a pull request if you want to edit language, improve how something is explained, or add to the common issue solutions or best practices in the [Resources](Resources) folder. See [CONTRIBUTING](CONTRIBUTING.md) for more details.
