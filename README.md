@@ -1,3 +1,4 @@
+# Added Mapping Images /Resources/Mapping [ Snowlion 20250902]
 # Tutorial on how to combine GitHub and DropBox [ Snowlion 20250902]
 
 #### Contributions to the tutorial is very welcomed!
